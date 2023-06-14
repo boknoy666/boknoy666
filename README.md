@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boknoy666
+- 👋 Hi, I’m @bokno
 - 👀 I’m interested in full stack programming
 - 🌱 I’m currently learning C#, java
 - 📫 How to reach me julesalexisloguinsa.ihma@gmail.com
