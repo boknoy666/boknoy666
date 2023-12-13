@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bokno
-- 👀 I’m interested in full stack programming
-- 🌱 I’m currently learning C#, java
+- 👋 Hi, I’m @jules
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning Julia, C++
 - 📫 How to reach me julesalexisloguinsa.ihma@gmail.com
 
 <!---
